@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: iss-libs
+Version: 0.0.4
+Home-page: https://github.com/postersom/iss-libs
+Author: Somsak Binyaranee
+Author-email: poster.som@gmail.com
+License: MIT
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+please read in: https://github.com/postersom/iss-libs

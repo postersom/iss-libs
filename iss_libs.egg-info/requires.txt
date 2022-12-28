@@ -1,0 +1,17 @@
+connexion
+Flask
+Flask-SocketIO
+marshmallow
+marshmallow_sqlalchemy
+matplotlib
+paramiko
+prettytable
+psutil
+python-dotenv
+python-gitlab
+redis
+robotframework
+six
+sqlalchemy
+swagger-ui-bundle
+xmltodict
