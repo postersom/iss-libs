@@ -10,11 +10,15 @@ To install iss_libs, simply run the following at your prompt:
 
 ```bash
   # from pypi
-  pip3 install iss_libs
+  pip3 install iss-libs
   
   # from source
   pip3 install git+https://github.com/postersom/iss_libs.git
+
 ```
+☤ Contributions
+---------------
+- Somsak Binyaranee (@postersom) - Tests / CI / Uploads to Pypi
 
 ☤ License
 ---------------

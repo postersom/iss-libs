@@ -1,15 +1,15 @@
 from setuptools import setup, find_packages
 
-with open("README.md", "r") as fh:
-    long_description = fh.read()
+with open('README.md', 'r') as f:
+    long_description = f.read()
 
 setup(
     name='iss-libs',  # How you named your package folder (MyLib)
-    version='0.0.4',  # Start with a small number and increase it with every change you make
+    version='0.0.5',  # Start with a small number and increase it with every change you make
     author='Somsak Binyaranee',  # Type in your name
     author_email='poster.som@gmail.com',  # Type in your E-Mail
     description='',  # Give a short description about your library
-    long_description='please read in: https://github.com/postersom/iss-libs',
+    long_description=long_description,
     long_description_content_type="text/markdown",
     url='https://github.com/postersom/iss-libs',  # Provide either the link to your github or to your website
     license='MIT',  # Chose a license from here: https://help.github.com/articles/licensing-a-repository
